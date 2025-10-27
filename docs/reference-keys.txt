@@ -1,0 +1,15 @@
+base-de-datos
+variables-a-trabajar
+justificación-de-la-selección-de-la-base-de-datos
+lectura-bd
+librerias
+exploración-de-la-base-de-datos
+estructura-del-dataset
+análisis-de-valores-faltantes
+estadísticos-descriptivos-por-variable
+distribución-y-correlaciones
+analisis-de-series
+serie-original-diaria
+promedio-móvil-media-móvil-7-días
+rezagos-lag-30-días
+descomposición-estacional
